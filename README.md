@@ -8,13 +8,13 @@ This project implements a face recognition system using a Jupyter Notebook. It l
 
 Before running the notebook, ensure that the following dependencies are installed:
 
-- Python 3.x
+- Python 
 - Jupyter Notebook
-- OpenCV (`cv2`)
+- OpenCV 
 - NumPy
-- TensorFlow/Keras (if using deep learning models)
-- dlib (if applicable)
-- face\_recognition (if applicable)
+- TensorFlow
+- dlib 
+- face\_recognition 
 - Matplotlib (for visualization)
 
 To install the necessary dependencies, use:
