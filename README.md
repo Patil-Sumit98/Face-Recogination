@@ -46,16 +46,5 @@ pip install opencv-python numpy tensorflow keras dlib face_recognition matplotli
 - The accuracy of recognition depends on the dataset and the model used.
 - If using deep learning, a GPU is recommended for faster processing.
 
-## Acknowledgments
 
-This project may use open-source libraries and pre-trained models from:
-
-- OpenCV
-- dlib
-- Face\_recogination Python library
-- TensorFlow/Keras
-
-## License
-
-This project is intended for educational and research purposes. Ensure compliance with the licenses of the libraries used.
 
